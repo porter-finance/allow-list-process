@@ -1,5 +1,5 @@
-# Porter Allow List Process (In Progress) 
-The following criteria and checks are used before a token is added to the Porter allow-list. 
+# [Porter](https://porter.finance) Allow List Process (In Progress) 
+The following criteria and checks are used before a token is added to the [Porter](https://porter.finance) allow-list. 
 
 ## Overall Project/Market Conditions
 
