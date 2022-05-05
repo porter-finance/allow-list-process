@@ -1,5 +1,4 @@
 # Checklist
-The following criteria and checks are used before a token is added to the Porter allow-list. 
 
 ## Overall Project/Market Conditions
 
@@ -20,8 +19,3 @@ The following criteria and checks are used before a token is added to the Porter
 - [ ] The owner can not disallow-list the contract
 - [ ] Token ownership should be widely distributed with no address (whale) owning more than 30% 
 
-### More details and inspiration
-* https://docs.porter.finance/portal/resources/risks#mitigating-collateral-token-risk
-* https://tribe.fei.money/t/tribe-turbo-launch-group/3959
-* [Token Integration Checklist](https://ethereum.org/ka/developers/tutorials/token-integration-checklist/)
-* [Token Integration Risks](https://blog.openzeppelin.com/workshop-recap-secure-development-workshop-1/)
