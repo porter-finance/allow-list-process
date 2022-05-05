@@ -21,7 +21,7 @@ To follow this checklist, you'll want to have this output from Slither for the t
 
 ## Market conditions
 - [ ] **Token must be listed and have pricing data via coingeko**
-- [ ] **Total MarketCap > $100 million**
+- [ ] **Total MarketCap > $50 million**
 - [ ] **Average daily on-chain liquidity over 30 days > $10,000,000**
 
 ## General considerations
