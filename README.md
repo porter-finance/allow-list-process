@@ -74,7 +74,6 @@ Reviews for issues of token scarcity requires manual review. Check for these con
 - [ ] **No user owns most of the supply.** If a few users own most of the tokens, they can influence operations based on the token's repartition.
 - [ ] **The total supply is sufficient.** Tokens with a low total supply can be easily manipulated.
 - [ ] **The tokens are located in more than a few exchanges.** If all the tokens are in one exchange, a compromise of the exchange can compromise the contract relying on the token.
-- [ ] **Users understand the associated risks of large funds or flash loans.** Contracts relying on the token balance must carefully take in consideration attackers with large funds or attacks through flash loans.
 - [ ] **The token does not allow flash minting**. Flash minting can lead to substantial swings in the balance and the total supply, which neccessitate strict and comprehensive overflow checks in the operation of the token. 
 
 #### References
