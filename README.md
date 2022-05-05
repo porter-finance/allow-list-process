@@ -1,8 +1,6 @@
 # [Porter](https://porter.finance) Allow List Process (In Progress) 
 The following criteria and checks are used before a token is added to the [Porter](https://porter.finance) allow-list. 
 
-## Overall Project/Market Conditions
-
 For convenience, all Slither [utilities](https://github.com/crytic/slither#tools) can be run directly on a token address, such as:
 
 ```bash
