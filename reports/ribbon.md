@@ -7,6 +7,8 @@ https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B
 
 https://github.com/ribbon-finance/governance/blob/main/contracts/RibbonToken.sol
 
+https://github.com/ribbon-finance/audit/blob/master/reports/PeckShield-Audit-Report-RBN-ERC20-v1.0.pdf
+
 # Notes
 The ribbon token has three ownership roles, ADMIN_ROLE, MINTER_ROLE, and TRANSFER_ROLE.
 At the time of writing - the [Ribbon Multisig](https://gnosis-safe.io/app/eth:0xDAEada3d210D2f45874724BeEa03C7d4BBD41674) has the MINTER_ROLE and the ADMIN_ROLE. This means they can mint more tokens at will, or pause transfers of the Ribbon Tokens. 
