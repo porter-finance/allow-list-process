@@ -2,7 +2,9 @@
 
 ## Links
 https://www.coingecko.com/en/coins/ribbon-finance
+
 https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B
+
 https://github.com/ribbon-finance/governance/blob/main/contracts/RibbonToken.sol
 
 # Notes
@@ -35,8 +37,8 @@ At the time of writing - the [Ribbon Multisig](https://gnosis-safe.io/app/eth:0x
 ## Owner privileges
 
 - [X] **The token is not upgradeable.** Upgradeable contracts might change their rules over time. Use Slither’s [human-summary printer](https://github.com/crytic/slither/wiki/Printer-documentation#contract-summary) to determine if the contract is upgradeable.
-- [] **The owner has limited minting capabilities.** Malicious or compromised owners can abuse minting capabilities. Use Slither’s [human-summary printer](https://github.com/crytic/slither/wiki/Printer-documentation#contract-summary) to review minting capabilities, and consider manually reviewing the code.
-- [] **The token is not pausable.** Malicious or compromised owners can trap contracts relying on pausable tokens. Identify pauseable code by hand.
+- [ ] **The owner has limited minting capabilities.** Malicious or compromised owners can abuse minting capabilities. Use Slither’s [human-summary printer](https://github.com/crytic/slither/wiki/Printer-documentation#contract-summary) to review minting capabilities, and consider manually reviewing the code.
+- [ ] **The token is not pausable.** Malicious or compromised owners can trap contracts relying on pausable tokens. Identify pauseable code by hand.
 - [X] **The owner cannot blacklist the contract.** Malicious or compromised owners can trap contracts relying on tokens with a blacklist. Identify blacklisting features by hand.
 - [X] **The team behind the token is known and can be held responsible for abuse.** Contracts with anonymous development teams, or that reside in legal shelters should require a higher standard of review.
 
