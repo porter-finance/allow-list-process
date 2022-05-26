@@ -11,6 +11,9 @@ https://github.com/ribbon-finance/governance/blob/main/contracts/RibbonToken.sol
 The ribbon token has three ownership roles, ADMIN_ROLE, MINTER_ROLE, and TRANSFER_ROLE.
 At the time of writing - the [Ribbon Multisig](https://gnosis-safe.io/app/eth:0xDAEada3d210D2f45874724BeEa03C7d4BBD41674) has the MINTER_ROLE and the ADMIN_ROLE. This means they can mint more tokens at will, or pause transfers of the Ribbon Tokens. 
 
+<img width="812" alt="CleanShot 2022-05-26 at 11 49 31@2x" src="https://user-images.githubusercontent.com/15036618/170535734-87c81120-0bcf-43f8-924b-8cd1e1c38b2c.png">
+
+
 # Main Risks 
 * Ribbon 4:6 multisig can pause transfers of RBN tokens, preventing bondholders from being able to redeem or convert. 
 * Ribbon 4:6 multisig can mint new RBN tokens at will
